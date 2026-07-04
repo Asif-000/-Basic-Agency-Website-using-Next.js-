@@ -1,9 +1,10 @@
-Agency Website using Next.js
+<h1>Agency Website using Next.js</h1>
+
 This project is a responsive, modern agency website built using Next.js, Tailwind CSS, and TypeScript. It's ideal as a starting point for digital agencies, freelancers, or small businesses looking to showcase their services online.
 
 🚀 Demo
 
-Check out the live demo here: agency-website-nextjs.netlify.app
+Check out the live demo here: [agency-website-nextjs.netlify.app](https://agency-website-nextjs.netlify.app/)
 
 🧰 Tech Stack
 
@@ -34,6 +35,7 @@ The Basic Agency Website is designed to provide a clean, minimal, and profession
 📞 Contact Section – Let users easily reach out via form or links.
 
 🛠️ TypeScript Support – Safer and more maintainable codebase.
+
 
 🛠️ Getting Started
 

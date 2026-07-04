@@ -4,7 +4,7 @@ This project is a responsive, modern agency website built using Next.js, Tailwin
 
 🚀 Demo
 
-Check out the live demo here: [agency-website-nextjs.netlify.app]([https://agency-website-nextjs.netlify.app/](https://agencywebsite-delta.vercel.app/))
+Check out the live demo here: [agency-website-nextjs.netlify.app](https://agencywebsite-delta.vercel.app/)
 
 🧰 Tech Stack
 
